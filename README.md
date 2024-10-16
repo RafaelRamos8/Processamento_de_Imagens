@@ -107,5 +107,16 @@ bordas com operadores como Sobel ou Canny.
  **1. Experimentar diferentes tamanhos de kernel nos filtros de média e mediana (por exemplo, (3, 3), (5, 5), etc.) e observar como isso afeta a suavização da imagem.**
  
 Irei disponibilizar todos os códigos feito e os codigo filtro_media.py e filtro_mediana.py estão alterados em media02.py e mediana02.py
+
+### Média
+
+![image](https://github.com/user-attachments/assets/bc5f3ac1-a369-4b5f-90d9-a8375db2deed)
+
+### Mediana
+
+![image](https://github.com/user-attachments/assets/e5c19012-99b8-46cf-b2ae-72a74d4a1ae8)
+
+
+
 como esperado a cada aumento da janela de pixels a imagem fica com efeito mais acentuado ficando menos visivel a imagem porém util quando usado
 com uma janela de pixels menor.
