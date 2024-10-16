@@ -65,7 +65,9 @@ filtro de mediana.
 
 
 ## 3. Analisar os Resultados:
+
 **1. Responder às seguintes perguntas:**
+
 **a) Como a imagem original mudou após a aplicação de cada filtro?**
 
 **Sobel:** no código aplicado ele inverteu as cores, foi muito discreta a diferença entre eixo x, y e combinado, mas percebe-se uma facilidade maior em 
